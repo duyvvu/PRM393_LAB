@@ -2,7 +2,7 @@ import 'package:lab03/lab03_logic.dart';
 
 /// ============================================================================
 /// PRM393 - LAB 3: ADVANCED DART PRACTICE EXERCISES
-/// File: main.dart (Root Runner)
+/// File: lab03.dart (Root Runner)
 /// ============================================================================
 
 void main() async {
