@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "MacBook Pro 16 M3 Max",
+    "category": "Laptop",
+    "price": 3499.0,
+    "quantity": 12,
+    "status": "In Stock"
+  },
+  {
+    "id": 2,
+    "title": "iPhone 16 Pro Max 256GB",
+    "category": "Smartphone",
+    "price": 1199.0,
+    "quantity": 25,
+    "status": "In Stock"
+  },
+  {
+    "id": 3,
+    "title": "Sony WH-1000XM5 Wireless Headphones",
+    "category": "Audio",
+    "price": 399.0,
+    "quantity": 40,
+    "status": "In Stock"
+  },
+  {
+    "id": 4,
+    "title": "Dell UltraSharp 32 4K Monitor",
+    "category": "Monitor",
+    "price": 899.0,
+    "quantity": 8,
+    "status": "Low Stock"
+  },
+  {
+    "id": 5,
+    "title": "Keychron Q1 Pro Mechanical Keyboard",
+    "category": "Accessories",
+    "price": 199.0,
+    "quantity": 0,
+    "status": "Out of Stock"
+  }
+]

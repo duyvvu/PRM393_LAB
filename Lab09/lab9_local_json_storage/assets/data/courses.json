@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "code": "PRM393",
+    "title": "Mobile Programming with Flutter",
+    "instructor": "Dr. Alex Nguyen",
+    "credits": 3,
+    "category": "Mobile Development",
+    "description": "Learn cross-platform mobile development using Flutter framework and Dart language."
+  },
+  {
+    "id": 2,
+    "code": "SWE201",
+    "title": "Software Engineering Introduction",
+    "instructor": "Prof. Sarah Jenkins",
+    "credits": 4,
+    "category": "Software Engineering",
+    "description": "Fundamentals of software lifecycles, agile methodologies, and clean architecture."
+  },
+  {
+    "id": 3,
+    "code": "CSD201",
+    "title": "Data Structures & Algorithms",
+    "instructor": "Dr. Michael Chen",
+    "credits": 3,
+    "category": "Computer Science",
+    "description": "Analysis of algorithms, trees, graphs, sorting, and dynamic programming techniques."
+  },
+  {
+    "id": 4,
+    "code": "DBI202",
+    "title": "Database Management Systems",
+    "instructor": "Dr. Emily Watson",
+    "credits": 3,
+    "category": "Database",
+    "description": "Relational database design, normalization, SQL queries, transactions, and indexing."
+  },
+  {
+    "id": 5,
+    "code": "PRN221",
+    "title": "Cross-Platform Enterprise Apps",
+    "instructor": "Prof. Robert Tran",
+    "credits": 3,
+    "category": "Enterprise Software",
+    "description": "Building modern scalable enterprise applications with backend services."
+  },
+  {
+    "id": 6,
+    "code": "PRM392",
+    "title": "Android Application Development",
+    "instructor": "Dr. Alex Nguyen",
+    "credits": 3,
+    "category": "Mobile Development",
+    "description": "Native Android development with Kotlin, Jetpack Compose, and Android Architecture Components."
+  }
+]
